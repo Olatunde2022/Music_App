@@ -1,0 +1,5 @@
+This music player  app is a GUI project created using Tkinter lib. 
+To access the player, it requires user to have pygame install on the IDE or Editor.
+The components must be in a same folder including the music files.
+This player is quite explanatory and simple to use.
+Kindly note that this project is still under construcrion therefore, necessary upgrame would be made as soon as possible. Thanks.
